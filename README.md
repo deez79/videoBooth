@@ -30,10 +30,10 @@ makeyClick() function was written to utilize this.
 In the end, the MakeyMakey was not used as the hardware was too expensive for this project.
 
   
-Button interaction based on Button Sketch \s\s
-      by DojoDave <http://www.0j0.org> \s\s
-      modified 30 Aug 2011 \s\s
-      by Tom Igoe \s\s
+Button interaction based on Button Sketch   
+      by DojoDave <http://www.0j0.org>   
+      modified 30 Aug 2011   
+      by Tom Igoe   
       http://www.arduino.cc/en/Tutorial/Button
  
  
