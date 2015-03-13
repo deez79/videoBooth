@@ -1,17 +1,16 @@
 //**************************************************************************************
-//
-//  TITLE:   Video Booth with MacBook running photo booth
-//  AUTHOR:  @deez79
-//  DATE:    01/11/2015
-//
+  TITLE:   Video Booth with MacBook running photo booth
+  AUTHOR:  @deez79
+  DATE:    01/11/2015
+
 //**************************************************************************************
 
 
 
 //**************************************************************************************
-// Info
+ Info
 //**************************************************************************************
-/*
+
   This project is for creating a "Video Booth" using a podium and a MacBook.
   The idea is to have the laptop opened, but have the keyboard secured below the surface of the podium.
   Only a large 60mm LED enabled arcade button will be available for users to interact with.
@@ -33,13 +32,13 @@
      modified 30 Aug 2011
      by Tom Igoe
      http://www.arduino.cc/en/Tutorial/Button
- */
+ 
  
 //***************************************************************************************
-// Schematic
+ Schematic
 //***************************************************************************************
 /*
-
+<code>
 Teensy 3.0
 ____________
 |          |
@@ -61,4 +60,4 @@ ____________
 |          |
 ------------
 
-*/
+</code>
